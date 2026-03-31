@@ -1,7 +1,7 @@
 # Capstone Project
 
 ## Project Description
-This project is developed as part of the IT Business Analysis program. It focuses on designing a system to solve a real-world problem.
+This project is a Student Task and Deadline Tracker application designed to help students organize their assignments, track deadlines, and receive reminders. It aims to improve time management and reduce missed deadlines.
 
 ## Team Members
 - Aayushi Mistry
